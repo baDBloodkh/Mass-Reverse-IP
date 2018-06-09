@@ -33,7 +33,7 @@ banner = '''
                                                              
                                                                   
 
-	                Name : Venom X                                           
+	                Name : VenomX Mass Reverse IP (Simple Work)                                           
 	                Coder By : Badblood KH                                    
 	                Telegram :  https://t.me/mrspy17                         
                                                                                                                                                        
